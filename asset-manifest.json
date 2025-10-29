@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Book-Finder-App/static/css/main.f642763d.css",
+    "main.js": "/Book-Finder-App/static/js/main.746d9fc6.js",
+    "static/js/453.d76c0280.chunk.js": "/Book-Finder-App/static/js/453.d76c0280.chunk.js",
+    "static/media/logo.png": "/Book-Finder-App/static/media/logo.29bf651964375d3bb163.png",
+    "static/media/about.jpg": "/Book-Finder-App/static/media/about.80d5ce0d3cc4dcfb4791.jpg",
+    "static/media/no_cover.jpg": "/Book-Finder-App/static/media/no_cover.a3cf3ac7cfcf8cdddef5.jpg",
+    "static/media/library-image.jpg": "/Book-Finder-App/static/media/library-image.3fbf4e995b9a5e1497e0.jpg",
+    "index.html": "/Book-Finder-App/index.html",
+    "main.f642763d.css.map": "/Book-Finder-App/static/css/main.f642763d.css.map",
+    "main.746d9fc6.js.map": "/Book-Finder-App/static/js/main.746d9fc6.js.map",
+    "453.d76c0280.chunk.js.map": "/Book-Finder-App/static/js/453.d76c0280.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f642763d.css",
+    "static/js/main.746d9fc6.js"
+  ]
+}
